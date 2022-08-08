@@ -29,5 +29,5 @@ b. MSE: Mean Square Error
 c. RMSE: Root Measure Error 
 
 # Conclusion :
-Although the accuracy between the training and the test are nearly aligned. Trying various hyper parameter tuning may have improved the performance of the model. 
+Although the accuracy between the training and the test are nearly aligned. Trying various hyper parameter tuning may have improved the performance of various model. So far RandomForestRegressor have shown the least RSME.  
 
