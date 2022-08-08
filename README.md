@@ -11,3 +11,23 @@ c. Feature Engineering
 d. Data Preparation 
 <br/>
 e. Modeling
+
+# The models used are : 
+a. RandomForestRegressor
+<br/>
+b. XGBRegressor
+<br/>
+c. KNeighborsRegressor
+<br/>
+d. DecisionTreeRegressor
+
+# Error Measures : 
+a. MAE: Mean Absolute Error 
+<br/>
+b. MSE: Mean Square Error 
+<br/>
+c. RMSE: Root Measure Error 
+
+# Conclusion :
+Although the accuracy between the training and the test are nearly aligned. Trying various hyper parameter tuning may have improved the performance of the model. 
+
